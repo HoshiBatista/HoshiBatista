@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://github.com/crissyro/crissyro/blob/main/_.gif)
 <!--
 **crissyro/crissyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
