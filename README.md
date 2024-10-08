@@ -1,6 +1,5 @@
 <!--## Hi there 👋-->
 ![](https://github.com/crissyro/crissyro/blob/main/_.gif)
-# 🛠️ Technology Stack
 
 # 🛠️ Technology Stack
 
