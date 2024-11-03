@@ -13,7 +13,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%23004B87.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<!--![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+<!-- ![Plotly](https://img.shields.io/badge/Plotly-%23004B87.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
