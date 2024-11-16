@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-![](https://github.com/crissyro/crissyro/blob/main/_.gif)
+![](https://github.com/crissyro/crissyro/blob/main/EDGEKD.gif)
 
 # 👨‍💻 Technology Stack
 
