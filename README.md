@@ -19,6 +19,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%230092CC.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badgelogo=graphqllogoColor=white)
 
 <!--
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%2342a5f5.svg?style=for-the-badge&logo=statsmodels&logoColor=white)
