@@ -19,7 +19,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%230092CC.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badgelogo=graphqllogoColor=white)
 
 <!--
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%2342a5f5.svg?style=for-the-badge&logo=statsmodels&logoColor=white)
@@ -64,6 +63,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark)
 
 ## 📬 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/integral_cursed)
