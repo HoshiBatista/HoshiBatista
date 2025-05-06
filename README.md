@@ -1,5 +1,5 @@
 ![](https://github.com/crissyro/crissyro/blob/main/__.gif)
-<!--
+
 # 👨‍💻 Technology Stack
 
 ## 🐍 Programming Languages
@@ -36,14 +36,14 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 -->
-<!--
+
 ## 🛠️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)   
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00.svg?style=for-the-badge&logo=clickhouse&logoColor=black)-->
-<!--
+
 ## 🚢 DevOps and Deployment
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +57,7 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 -->
-<!--
+
 ## 🧰 Version Control and Collaboration
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -68,7 +68,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark) 
 
 ## 📬 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/integral_cursed)
