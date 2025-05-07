@@ -21,10 +21,10 @@
 ## 🌐 Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%230092CC.svg?style=for-the-badge&logo=pydantic&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 <!--
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%2342a5f5.svg?style=for-the-badge&logo=statsmodels&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
