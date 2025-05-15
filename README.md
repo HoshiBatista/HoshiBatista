@@ -68,7 +68,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -->
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark) -->
+ <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark) -->
 
 ## 📬 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/integral_cursed)
