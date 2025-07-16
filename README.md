@@ -70,7 +70,7 @@
 -->
 
  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=dark)
+
 ## 📬 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/integral_cursed)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morozdef24@gmail.com)
