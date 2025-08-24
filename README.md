@@ -22,6 +22,7 @@
 ##  Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%230092CC.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 
 <!--
@@ -55,7 +56,6 @@
 <!--
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 -->
 
