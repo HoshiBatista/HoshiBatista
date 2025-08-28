@@ -76,7 +76,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/integral_cursed)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morozdef24@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2300A3E0.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/crissyro)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/crissyro/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/HoshiBatista/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
