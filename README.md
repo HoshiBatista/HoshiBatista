@@ -19,6 +19,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230077B5.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ##  Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
