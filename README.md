@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/HoshiBatista/HoshiBatista/blob/main/__.gif" width="100%" />
+<img src="https://github.com/HoshiBatista/HoshiBatista/blob/main/__.gif" width="75%" />
 
 # Hi there 👋 I'm Roman
 
-Machine Learning Engineer • Backend Developer • Data Scientist
+Machine Learning Engineer • Data Scientist
 
 </div>
 
@@ -13,44 +13,38 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 ### Programming Languages
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
 </p>
 
-### Machine Learning and Data Science
+### Machine Learning & Data Science
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-004B87?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0077B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ClearML-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
 
-### Backend Development
+### Backend
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-0092CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-023131?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 
 </p>
 
@@ -64,7 +58,7 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 </p>
 
-### DevOps and Infrastructure
+### DevOps
 
 <p align="center">
 
@@ -73,16 +67,6 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-007EC6?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</p>
-
-### Version Control
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
