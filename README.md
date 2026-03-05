@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HoshiBatista/HoshiBatista/blob/main/__.gif" width="100%" />
 
-# Hi there 👋 I'm Dmitry
+# Hi there 👋 I'm Roman
 
 Machine Learning Engineer • Backend Developer • Data Scientist
 
@@ -82,18 +82,6 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crissyro&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissyro&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔗 Connect with Me
 
 <p align="center">
@@ -117,9 +105,5 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 </p>
 
 ---
-
-<div align="center">
-
-⭐ From [crissyro](https://github.com/crissyro)
 
 </div>
