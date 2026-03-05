@@ -8,11 +8,9 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 </div>
 
----
+## Technology Stack
 
-# 🧠 Technology Stack
-
-## 💻 Programming Languages
+### Programming Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -22,9 +20,7 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
----
-
-## 🤖 Machine Learning & Data Science
+### Machine Learning and Data Science
 
 <p align="center">
 
@@ -35,16 +31,20 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0077B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClearML-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
 
----
-
-## ⚙️ Backend Development
+### Backend Development
 
 <p align="center">
 
@@ -54,9 +54,7 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 </p>
 
----
-
-## 🗄 Databases
+### Databases
 
 <p align="center">
 
@@ -66,9 +64,7 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 </p>
 
----
-
-## 🚀 DevOps & Infrastructure
+### DevOps and Infrastructure
 
 <p align="center">
 
@@ -80,9 +76,17 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 
 </p>
 
----
+### Version Control
 
-# 🔗 Connect with Me
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+## Connect with Me
 
 <p align="center">
 
@@ -103,7 +107,3 @@ Machine Learning Engineer • Backend Developer • Data Scientist
 </a>
 
 </p>
-
----
-
-</div>
